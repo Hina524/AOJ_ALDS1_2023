@@ -1,8 +1,8 @@
 # AOJ_ALDS1_2023
 
-学部2年4学期 ”Algorithms and Data Structures”(2023/12〜2024/2) の授業でかいたもの
+学部1年4学期 ”Algorithms and Data Structures”(2023/12〜2024/2) の授業でかいたもの
 
-Aizu Online Judge(AOJ)のALDS1を解いています
+Aizu Online Judge(AOJ)のALDS1をC言語で解いています
 
 昇順ソートが問題の時は降順ソートも書いてみるなど、
 
