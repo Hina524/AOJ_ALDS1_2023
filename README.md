@@ -1,6 +1,11 @@
 # AOJ_ALDS1_2023
 
-学部1年4学期 ”Algorithms and Data Structures”(2023/12〜2024/2) の授業でかいたもの
+期間：2023/12〜2024/2
+
+language	files	code	comment	blank	total
+C	        64	  3,121	721	    715	  4,557
+
+会津大学学部1年4学期の授業 ”アルゴリズムとデータ構造Ⅰ”の課題でかいたものです。
 
 Aizu Online Judge(AOJ)のALDS1をC言語で解いています
 
