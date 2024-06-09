@@ -3,17 +3,17 @@
 期間：2023/12〜2024/2
 
 
-language:C
+language｜C
 
-files:64
+files｜64
 
-code:3,121
+code｜3,121
 
-comment:721
+comment｜721
 
-blank:715
+blank｜715
 
-total:4,557
+total｜4,557
 
 
 会津大学学部1年4学期の授業 ”アルゴリズムとデータ構造Ⅰ”の課題でかいたものです。
